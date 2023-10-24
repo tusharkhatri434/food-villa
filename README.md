@@ -14,7 +14,7 @@ React , Redux , Javascript..
 Clone the project
 
 ```bash
-  git clone https://github.com/tusharkhatri434/food-villa
+  git clone https://github.com/tusharkhatri434/food-villa.git
 ```
 
 Go to the project directory

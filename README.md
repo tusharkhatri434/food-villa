@@ -8,6 +8,8 @@ FoodVilla is a cutting-edge web app crafted with React.js, Tailwind CSS, Redux T
 ## 🛠 Tech Stack 
 React , Redux , Javascript..
 
+## Project-Img
+https://raw.githubusercontent.com/tusharkhatri434/my-project-assets/master/p1.png
 
 ## Run Locally
 

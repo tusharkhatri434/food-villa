@@ -10,7 +10,6 @@ React , Redux , Javascript..
 
 ## Project-Img
 ![youtube img](https://raw.githubusercontent.com/tusharkhatri434/my-project-assets/master/p1.png)
-https://raw.githubusercontent.com/tusharkhatri434/my-project-assets/master/p1.png
 
 ## Run Locally
 
